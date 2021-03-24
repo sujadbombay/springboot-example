@@ -1,0 +1,10 @@
+/root/springbootwebapp/src/main/java/guru/springframework/services/ProductService.java
+/root/springbootwebapp/src/main/java/guru/springframework/controllers/IndexController.java
+/root/springbootwebapp/src/main/java/guru/springframework/bootstrap/ProductLoader.java
+/root/springbootwebapp/src/main/java/guru/springframework/configuration/SecurityConfiguration.java
+/root/springbootwebapp/src/main/java/guru/springframework/repositories/ProductRepository.java
+/root/springbootwebapp/src/main/java/guru/springframework/services/ProductServiceImpl.java
+/root/springbootwebapp/src/main/java/guru/springframework/domain/Product.java
+/root/springbootwebapp/src/main/java/guru/springframework/SpringBootWebApplication.java
+/root/springbootwebapp/src/main/java/guru/springframework/configuration/WebConfiguration.java
+/root/springbootwebapp/src/main/java/guru/springframework/controllers/ProductController.java
